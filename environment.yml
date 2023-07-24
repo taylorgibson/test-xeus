@@ -5,5 +5,3 @@ channels:
 dependencies:
   - ipycanvas
   - pandas
-  - numpy
-  - datascience
