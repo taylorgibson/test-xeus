@@ -4,6 +4,6 @@ channels:
   - https://repo.mamba.pm/conda-forge
 dependencies:
   - ipycanvas
+  - numpy==1.24
   - pandas
   - datascience
-  - numpy==1.24
