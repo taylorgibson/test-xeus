@@ -6,3 +6,4 @@ dependencies:
   - ipycanvas
   - pandas
   - datascience
+  - numpy==1.24
